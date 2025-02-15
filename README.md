@@ -18,5 +18,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Link](https://your-solution-url.com)
-- Live Site URL: [Live Site Link](https://your-live-site-url.com)
+- Solution URL: [Solution Link](https://github.com/FarisahHannes2210/blog-preview-card-frontend-mentor)
+- Live Site URL: [Live Site Link](https://FarisahHannes2210.github.io/blog-preview-card-frontend-mentor)
